@@ -1,0 +1,18 @@
+{
+    "name": "nexmosms/client",
+    "description": "test utk nexmosms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Developer NexmoSMS",
+            "email": "developer.nexmosms@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "nexmosms\\" : "src"
+        }
+    },
+    "require": {}
+}

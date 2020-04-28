@@ -1,6 +1,6 @@
 {
     "name": "nexmosms/client",
-    "description": "test utk nexmosms",
+    "description": "nexmosms SDK",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "nexmosms\\" : "src"
+            "nexmosms\\client\\" : "src"
         }
     },
     "require": {}

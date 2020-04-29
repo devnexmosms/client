@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "nexmosms\\client\\" : "src"
+            "Nexmosms\\" : "src"
         }
     },
     "require": {}
